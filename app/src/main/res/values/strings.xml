@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyIMCv4</string>
+    <string name="imc">IMC</string>
+    <string name="rbHombre">Hombre</string>
+    <string name="rbMujer">Mujer</string>
+    <string name="btnCalc">Calcular</string>
+    <string name="txtIMC">Indice de Masa Corporal</string>
+    <string name="kg">Kg</string>
+    <string name="cm">cm</string>
+    <string name="altura">Altura (cm): </string>
+    <string name="peso">Peso (Kg): </string>
+    <string name="nombre">Jorge Fabro García    2º DAM</string>
+    <string name="histo">Histórico</string>
+    <string name="bDatos">Borrar datos</string>
+    <string name="peso2">Peso: </string>
+    <string name="altura2">Altura: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnInfo">Información</string>
+    <string name="options">Borrar Datos</string>
+    <string name="titulo">Borrar</string>
+    <string name="mensaje">¿Está seguro que quiere eliminar todos los registros?</string>
+    <string name="dialog_button_positive">Aceptar</string>
+    <string name="dialog_button_negative">Cancelar</string>
+</resources>
